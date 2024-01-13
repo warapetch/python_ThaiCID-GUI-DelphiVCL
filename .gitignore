@@ -1,0 +1,10 @@
+# zip files
+*.zip
+
+
+
+# Folder
+env
+zip
+__pycache__
+.history
