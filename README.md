@@ -3,7 +3,7 @@ ThaiCIDHelper-GUI-DelphiVCL <br>
 เขียนโปรแกรมอ่านบัตรประชาชนคนไทย ด้วยไพธอน GUI ใช้ DelphiVCL<br>
 ## **แปลงเป็น EXE มีปัญหา **
 
-# ThaiCIDHelper [#1 สำหรับ GUI-DelphiVCL]
+# ThaiCIDHelper [#2 สำหรับ GUI-DelphiVCL]
 ThaiSmartCard-Reader-Python [GUI-DelphiVCL]
 Thai CID Smart Card Reader Helper <br> 
 โปรแกรมอ่านบัตรประชาชน (คนไทย) ด้วยไพธอน
