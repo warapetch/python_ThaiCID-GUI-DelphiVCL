@@ -21,7 +21,7 @@ Thai CID Smart Card Reader Helper <br>
 ## เนื้อหา + คลิป บน ยูทูป
 🔷 วิดีโอ
 📌 เขียนโปรแกรมอ่านบัตรประชาชน ด้วย Delphi GUI รันกับ python #1 <br>
-<br> 
+
 [![cover](http://img.youtube.com/vi/9Sg40pi6Pbw/0.jpg)](http://www.youtube.com/watch?v=9Sg40pi6Pbw "Click to Play Video")
 
 
